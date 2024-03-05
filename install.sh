@@ -3,6 +3,8 @@
 if [ "$#" -ne 1 ]; then
     exit 1
 fi
+
+echo "Đang tiến hành cài đặt..."
 port="$1"
 sudo apt update
 sudo apt install -y squid
