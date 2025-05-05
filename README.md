@@ -9,6 +9,10 @@
 <pre>
   curl -o install.sh https://raw.githubusercontent.com/hectran12/fast-squid/main/install.sh && chmod +x install.sh && ./install.sh 6969
 </pre>
+<b>Ví dụ (có user và psw): </b><br>
+<pre>
+  curl -o install.sh https://raw.githubusercontent.com/hectran12/fast-squid/main/install_up.sh && chmod +x install.sh && ./install.sh 6969 user psw
+</pre>
 <br>
 <p>Sau khi nhập vui lòng đợi một lúc cho nó cài đặt và bạn sẽ nhận được ip với port và sau đó sử dụng như bình thường!</p>
 <br>
